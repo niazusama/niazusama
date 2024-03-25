@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Usama Niaz</h1>
 <h3 align="center">A passionate Flutter frontend developer and Integration engineer in Power Apps</h3>
 
-- 🔭 I’m currently working on **Movie and TV shows app in Flutter.**
+- 🔭 I’m currently working on **Movie and TV shows app in Flutter**
 
 - 🌱 I’m currently learning **Dart, Flutter, Firebase, Flutter Architechtures, and Node.js.**
 
-- 👯 I’m looking to collaborate on **Flutter Projects, Integration using Power Apps & Python and Machine learning.**
+- 👯 I’m looking to collaborate on **Flutter Projects, Integration using Power Apps & Python and Machine learning**
 
-- 🤝 I’m seeking assistance to become **Proficient in App development with Flutter and integration using Power Apps.**
+- 🤝 I’m seeking assistance to become **Proficient in App development with Flutter**
 
 - 💬 Ask me about **Mobile apps development, Power Apps Integration, Azure Document Intelligence, Integration, Python Automation, and Machine Learning.**
 
 - 📫 How to reach me **niazusama779@gmail.com**
+
+- 📄 Know about my experiences [https://niazusama.github.io/usama-niaz-resume.githhub.io/](https://niazusama.github.io/usama-niaz-resume.githhub.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
