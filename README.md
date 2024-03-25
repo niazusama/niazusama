@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Usama Niaz</h1>
 <h3 align="center">A passionate Flutter frontend developer and Integration engineer in Power Apps</h3>
 
-- 🔭 I’m currently working on **Movie and TV shows app in Flutter**
+- 🔭 I’m currently working on **Movie and TV shows app in Flutter.**
 
 - 🌱 I’m currently learning **Dart, Flutter, Firebase, Flutter Architechtures, and Node.js.**
 
-- 👯 I’m looking to collaborate on **Flutter Projects, Integration using Power Apps & Python and Machine learning**
+- 👯 I’m looking to collaborate on **Flutter Projects, Integration using Power Apps & Python and Machine learning.**
 
-- 🤝 I’m seeking assistance to become **Proficient in App development with Flutter**
+- 🤝 I’m seeking assistance to become **Proficient in App development with Flutter and integration using Power Apps.**
 
 - 💬 Ask me about **Mobile apps development, Power Apps Integration, Azure Document Intelligence, Integration, Python Automation, and Machine Learning.**
 
